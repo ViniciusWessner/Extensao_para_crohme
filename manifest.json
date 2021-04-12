@@ -1,0 +1,16 @@
+{
+
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "vini-extensao",
+    "description":"Aprendendo extensao",
+    "author": "vinicius Wessner",
+    "browser_action":{
+        "default_title":"vinicius Wessner",
+        "default_popup":"index.html"
+
+    }
+
+
+
+}
